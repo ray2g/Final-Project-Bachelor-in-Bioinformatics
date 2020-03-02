@@ -1,4 +1,4 @@
-# Final-Project-Bachelor-in-Bioinformatics
+# Final Project: Bachelor in Bioinformatics
 
 Code Source: https://github.com/labBioinfo/workflow
 
