@@ -1,4 +1,4 @@
-# Final Project: Bachelor in Bioinformatics
+# Final Project: Bsh in Bioinformatics
 
 Source Code: https://github.com/labBioinfo/workflow
 
